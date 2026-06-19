@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nikunj Garg
 
-<!--
-**gargnikunj991-ux/gargnikunj991-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student passionate about Backend Development and Software Engineering.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* OOP
+* JDBC
+* PostgreSQL
+* Git & GitHub
+
+## Projects
+
+### Library Management System v2.0
+
+* Employee Authentication
+* Member Management
+* Book Management
+* Issue & Return Workflow
+* PostgreSQL Integration
+
+### Student Management System
+
+* CRUD Operations
+* Java OOP Design
+
+## Currently Learning
+
+* Spring Boot
+* REST APIs
+* Data Structures & Algorithms
