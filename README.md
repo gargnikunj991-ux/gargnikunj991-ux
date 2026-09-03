@@ -1,76 +1,83 @@
-# Hi, I'm Nikunj Garg 👋
+# Hi, I'm Nikunj Garg
 
-## 🚀 About Me
+### Java Backend Developer | BCA Student
 
-I'm a BCA student from Dehradun, India, focused on **Java backend development** with Spring Boot.
+I'm a BCA student from Dehradun focused on **Java backend development with Spring Boot and PostgreSQL**.
 
-I enjoy designing REST APIs, building secure backend systems, working with databases, and deploying applications to production. I've worked on hackathon and personal projects involving authentication, real-time communication, AI integrations, external APIs, and database-driven applications.
+I build secure, database-driven backend applications with **REST APIs, authentication, real-time communication, external API integrations, and production deployments**.
 
-Currently, I'm focused on strengthening my **Java backend engineering, Data Structures & Algorithms, system design, and production-ready software development** skills.
+My current focus is becoming a stronger backend engineer by building practical systems and improving my understanding of **OOP, Data Structures & Algorithms, API design, security, and database architecture**.
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages & Database
 
 * Java 21
 * SQL
+* PostgreSQL
 
-## Backend
+### Backend
 
 * Spring Boot
 * Spring Security
 * Spring Data JPA
 * Hibernate
 * REST APIs
-* JWT Authentication
-* Bean Validation
 * WebSockets
 
-## Database
+### Security & APIs
 
-* PostgreSQL
-
-## APIs & Integrations
-
+* JWT Authentication
+* BCrypt
+* Bean Validation
 * OpenAPI / Swagger
-* Cloudinary API
-* Weather APIs
-* AI / Computer Vision APIs
 
-## Build & Tools
+### Tools
 
-* Maven
 * Git
 * GitHub
-* VS Code
+* Maven
+* Postman
 * Thunder Client
+* Cloudinary
+
+### Core
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Database Design
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 🌾 AgriSathi AI
 
-An AI-powered agricultural intelligence and decision-support platform built for a 30-day hackathon.
+**Agricultural Intelligence & Decision-Support Platform**
 
-The platform helps farmers with crop disease diagnosis, crop lifecycle management, localized weather intelligence, government scheme discovery, direct producer-to-buyer interaction, and multilingual AI assistance.
+An AI-powered agricultural platform designed to provide farmers with advisory and decision-support features.
 
 ### My Contribution
 
-* Developed the **Java/Spring Boot backend**
-* Designed and implemented REST APIs
-* Implemented JWT authentication and role-based access control
-* Integrated PostgreSQL using Spring Data JPA
-* Integrated external weather and AI services
-* Integrated Cloudinary for media storage
-* Configured API documentation using OpenAPI / Swagger
-* Handled backend deployment and production configuration
+* Built the **Java/Spring Boot backend** for the platform.
+* Developed REST APIs for:
 
-### Tech Stack
+  * Crop diagnosis
+  * Farmer profiles
+  * Crop lifecycle management
+  * Weather information
+  * Government schemes
+  * Marketplace features
+* Implemented **JWT authentication and role-based access control**.
+* Integrated external **AI and weather APIs**.
+* Integrated **Cloudinary** for media handling.
+* Added **OpenAPI/Swagger** API documentation.
+* Handled backend deployment and production configuration.
+* Developed as part of a **30-day hackathon project**.
 
-Java 21 • Spring Boot • Spring Security • JWT • Spring Data JPA • PostgreSQL • Cloudinary • REST APIs • OpenAPI • AI APIs
+**Tech:** Java 21 • Spring Boot • Spring Security • JWT • PostgreSQL • Spring Data JPA • Cloudinary • REST APIs • AI APIs • OpenAPI/Swagger
 
 🔗 **Live Project:** https://agri-sathi-ai-three.vercel.app/
 
@@ -78,101 +85,91 @@ Java 21 • Spring Boot • Spring Security • JWT • Spring Data JPA • Post
 
 ---
 
+## 💻 DevTinder
+
+**Hackathon Matchmaking Platform**
+
+A matchmaking platform developed during a **72-hour hackathon**, focused on connecting users through profiles and matchmaking features.
+
+### Features & Contribution
+
+* Developed backend APIs for authentication and user management.
+* Built profile and matchmaking functionality.
+* Designed the PostgreSQL-backed API layer.
+* Implemented **real-time messaging using WebSockets**.
+* Deployed the backend for live access.
+
+**Tech:** Java • Spring Boot • PostgreSQL • WebSockets
+**Live project :** https://devlynix-frontend12-git-main-hxmblevishus-projects.vercel.app/
+**GitHub:** https://github.com/gargnikunj991-ux/Devlynix-Buildathon-2.0.git
+---
+
 ## 📚 Library Management System
 
-A production-style backend application built using Spring Boot and PostgreSQL.
+**Production-Style RESTful Backend**
+
+A backend application for managing users, members, books, and borrowing records.
 
 ### Features
 
-* JWT Authentication
-* Spring Security
-* User Registration & Login
-* Book Management
-* Member Management
-* Borrow & Return Management
-* DTO-based API Design
-* Bean Validation
-* Global Exception Handling
-* Layered Architecture
-* PostgreSQL Database
+* User authentication
+* JWT authentication
+* Role-based authorization
+* User & member management
+* Book management
+* Borrow & return records
+* DTO-based API design
+* Bean validation
+* Global exception handling
 * RESTful APIs
+* PostgreSQL database
 
-### Tech Stack
-
-Java • Spring Boot • Spring Security • JWT • Spring Data JPA • Hibernate • PostgreSQL • Maven
+**Tech:** Java • Spring Boot • Spring Security • JWT • Spring Data JPA • Hibernate • PostgreSQL • Maven
 
 💻 **GitHub:** https://github.com/gargnikunj991-ux/library_spring
 
 ---
 
-## 💻 DevTinder
+# 🎓 Education
 
-A hackathon matchmaking platform built during a 72-hour hackathon.
-
-### Features
-
-* User Authentication
-* Profile Management
-* Matchmaking
-* Real-time Chat using WebSockets
-* PostgreSQL Database
-* REST APIs
-* Railway Deployment
-
-### Tech Stack
-
-Java • Spring Boot • PostgreSQL • WebSockets • Railway
+**Bachelor of Computer Applications (BCA)**
+Shri Guru Ram Rai University, Dehradun
+**2025 – 2028**
 
 ---
 
-# 📚 Currently Learning
+# 🏆 Achievements & Certifications
 
-* Advanced Spring Security
-* JUnit 5 & Mockito
-* Data Structures & Algorithms
-* Backend System Design
-* Software Architecture
-* Distributed Systems Fundamentals
-
----
-
-# 🎯 Goals for 2026
-
-* Build production-quality backend applications
-* Strengthen Java and Spring Boot expertise
-* Improve problem-solving through DSA
-* Learn distributed systems and scalable backend architecture
-* Contribute to Open Source
-* Secure a Backend Engineering Internship
+* **Certificate of Recognition** — Presented an innovative startup idea at the Innovation & Incubation Centre, Shri Guru Ram Rai University.
 
 ---
 
 # 📈 Current Focus
 
 ```text
-Java
-  ↓
+Java 21
+   ↓
 Spring Boot
-  ↓
-PostgreSQL
-  ↓
-Security & API Design
-  ↓
-Testing
-  ↓
-Docker & Cloud
-  ↓
-System Design
-  ↓
-Distributed Systems
+   ↓
+REST API Development
+   ↓
+PostgreSQL & Database Design
+   ↓
+Security & Authentication
+   ↓
+Real-Time Systems
+   ↓
+Testing & Production Engineering
 ```
 
-I'm currently focused on becoming a stronger **Java Backend Engineer** by building real applications and understanding how backend systems work beyond basic CRUD operations.
+I'm focused on building **real-world backend systems**, strengthening my engineering fundamentals, and growing toward a professional **Java Backend Engineering** role.
 
 ---
 
 # 📫 Connect With Me
 
 💼 **LinkedIn**
-
 https://www.linkedin.com/in/nikunj-garg-9677942b7
+
+💻 **GitHub**
+https://github.com/gargnikunj991-ux
